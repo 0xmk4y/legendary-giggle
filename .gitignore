@@ -1,3 +1,4 @@
+.venv
 localhost.com+11-key.pem
 localhost.com+11.pem
 one.png
@@ -10,3 +11,5 @@ script1.py
 script.py
 README.md
 guide.txt
+.env
+auto.sh
