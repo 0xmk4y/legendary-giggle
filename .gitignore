@@ -13,3 +13,5 @@ README.md
 guide.txt
 .env
 auto.sh
+__pycache__
+.git
